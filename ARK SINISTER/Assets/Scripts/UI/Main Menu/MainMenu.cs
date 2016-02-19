@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public static class MainMenu : MonoBehaviour {
+public class MainMenu : MonoBehaviour {
 
     public static void StartGame_Click()
     {
